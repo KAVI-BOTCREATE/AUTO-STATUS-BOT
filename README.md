@@ -1,6 +1,6 @@
 
 
-![Main Logo](./media/main_logo.png)
+![Main Logo](./media/web_logo.png)
 
 ---
 

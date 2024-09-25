@@ -1,0 +1,23 @@
+{
+  "name": "auto-status-bot",
+  "version": "1.0.0",
+  "description": "This is auto status send bot . make by KAvindU DILSHARA😌💗.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Whatsappbot",
+    "Auto",
+    "Status",
+    "send"
+  ],
+  "author": "KAVINDU DILSHARA",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
